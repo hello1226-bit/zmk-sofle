@@ -55,11 +55,11 @@
 
         layer_1 {
             bindings = <
-&kp GRAVE   &kp F1           &kp F2           &kp F3           &kp F4           &kp F5             &mmv MOVE_UP     &kp F6  &kp F7     &kp F8    &kp F9     &kp F10   &kp NON_US_BACKSLASH
-&trans      &kp F11          &kp F12          &trans           &trans           &trans             &mmv MOVE_DOWN   &trans  &mkp LCLK  &kp UP    &mkp RCLK  &kp LBKT  &kp RIGHT_BRACKET
-&trans      &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_NUMBER_4  &kp KP_NUMBER_5    &mmv MOVE_LEFT   &trans  &kp LEFT   &kp DOWN  &kp RIGHT  &trans    &trans
-&trans      &kp KP_NUMBER_6  &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_NUMBER_0    &mmv MOVE_RIGHT  &trans  &trans     &trans    &trans     &trans    &trans
-&kp C_MUTE  &trans           &trans           &trans           &trans           &trans             &mkp LCLK        &trans  &trans     &trans    &trans     &trans
+&kp GRAVE         &kp F1           &kp F2           &kp F3           &kp F4           &kp F5             &mmv MOVE_UP     &kp F6  &kp F7     &kp F8    &kp F9     &kp F10   &kp NON_US_BACKSLASH
+&trans            &kp F11          &kp F12          &trans           &trans           &trans             &mmv MOVE_DOWN   &trans  &mkp LCLK  &kp UP    &mkp RCLK  &kp LBKT  &kp RIGHT_BRACKET
+&kp LANG_HANGEUL  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_NUMBER_4  &kp KP_NUMBER_5    &mmv MOVE_LEFT   &trans  &kp LEFT   &kp DOWN  &kp RIGHT  &trans    &trans
+&trans            &kp KP_NUMBER_6  &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_NUMBER_0    &mmv MOVE_RIGHT  &trans  &trans     &trans    &trans     &trans    &trans
+&kp C_MUTE        &trans           &trans           &trans           &trans           &trans             &mkp LCLK        &trans  &trans     &trans    &trans     &trans
             >;
 
             display-name = "layer1";
