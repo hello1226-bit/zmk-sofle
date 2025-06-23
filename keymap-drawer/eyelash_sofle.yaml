@@ -92,7 +92,7 @@ layers:
   - $$mdi:mouse-right-click-outline$$
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - LANG HANGEUL
   - KP 1
   - KP 2
   - KP 3
