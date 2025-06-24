@@ -63,7 +63,7 @@ layers:
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '''', s: '"'}
   - '2'
-  - '3'
+  - {t: '3', h: toggle}
   - \
   layer1:
   - {t: '`', s: '~'}
@@ -258,5 +258,5 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
